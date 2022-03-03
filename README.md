@@ -1,1 +1,3 @@
-# git_test
+
+My firsr Github Repo!
+Hello Odin!
